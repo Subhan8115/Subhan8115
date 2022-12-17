@@ -1,0 +1,88 @@
+#EXTM3U url-tvg=http://epg.it999.ru/epg2.xml.gz
+#EXTINF:-0,ARB
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-0,ATV AzERBAYCAN
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-0,ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-0,arb
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-0,CNN TURKIYE
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-0,KANAL D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-0,TRT1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-0,ATVHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/52?checkedby:iptvcat.com
+#EXTINF:-0,BAKU TV 
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,ViP Premiere HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPPREMIERE/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:0,ViP Megahit HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIPMEGAHIT/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
+#EXTINF:-0,AMEDIA HIT HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-0,Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-0,MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-0,STRTV
+https://strtv.at.ua/hls/index.m3u8
+#EXTINF:-0,AVD TV
+https://autopilot.catcast.tv/content/40791/index.m3u8
+#EXTINF:-0,Kino Watch-СВЕЖАКИ
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-0,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-0,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-0,Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-0,Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-0,
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-0,Первый канал
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,Viasat Nature
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,Viasat Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,Viasat History
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,КИНОПРЕМЬЕРА
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd?checkedby:iptvcat
+#EXTINF:-0,Кинозал! УЖАСТИК
+https://edge-01.kino.watch/horror/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,TV 1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,РЕНТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,Haber Global HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/20561?checkedby:iptvcat.com
+#EXTINF:-0,Beyaz Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5223?checkedby:iptvcat.com
+#EXTINF:-0,FoxTv
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55?checkedby:iptvcat.com
+#EXTINF:-0,TV8hd
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4777?checkedby:iptvcat.com
+#EXTINF:-0,YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist
+#EXTINF:-0,iNTER AZ 
+http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-0,TNT
+https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
+#EXTINF:-0,МАТЧ! СТРАНА HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-0,НТВ Хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-0,VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-0,VIP Serial HD
+http://94.229.250.73:8008/play/a003
+#EXTINF:-0,Уже видел(Хит) HD
+https://edge-01.kino.watch/hit/index.m3u8
+
+
+
